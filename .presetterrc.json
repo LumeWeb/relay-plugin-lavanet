@@ -1,0 +1,5 @@
+{
+  "preset": [
+    "@lumeweb/presetter-relay-plugin-preset"
+  ]
+}
