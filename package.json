@@ -1,13 +1,12 @@
 {
   "name": "@lumeweb/relay-plugin-lavanet",
-  "version": "0.1.0",
+  "version": "1.0.0-develop.1",
   "type": "module",
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "gitea@git.lumeweb.com:LumeWeb/relay-plugin-lavanet.git"
   },
-  "_id": "@lumeweb/relay-plugin-lavanet@0.1.0",
   "scripts": {
     "prepare": "presetter bootstrap",
     "build": "run build",
