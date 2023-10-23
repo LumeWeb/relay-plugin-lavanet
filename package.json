@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@improbable-eng/grpc-web": "^0.15.0",
-    "@lavanet/lava-sdk": "^0.21.1",
+    "@lavanet/lava-sdk": "^0.25.6",
     "@lumeweb/interface-relay": "^0.0.2-develop.3"
   }
 }
