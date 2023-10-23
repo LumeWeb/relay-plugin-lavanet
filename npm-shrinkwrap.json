@@ -1,12 +1,12 @@
 {
   "name": "@lumeweb/relay-plugin-lavanet",
-  "version": "1.0.0-develop.1",
+  "version": "1.0.0-develop.2",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
       "name": "@lumeweb/relay-plugin-lavanet",
-      "version": "1.0.0-develop.1",
+      "version": "1.0.0-develop.2",
       "dependencies": {
         "@improbable-eng/grpc-web": "^0.15.0",
         "@lavanet/lava-sdk": "^0.25.6",

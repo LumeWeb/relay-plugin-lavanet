@@ -1,3 +1,5 @@
+# [1.0.0-develop.2](https://git.lumeweb.com/LumeWeb/relay-plugin-lavanet/compare/v1.0.0-develop.1...v1.0.0-develop.2) (2023-10-23)
+
 # 1.0.0-develop.1 (2023-08-21)
 
 
